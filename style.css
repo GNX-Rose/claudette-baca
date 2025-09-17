@@ -1,7 +1,9 @@
+h1 {
+    color: darkgreen;
+}
+
 img {
-    max-height: 200px;   /*make image 50px wide */
-    height: auto;   /* keep proportions */
-
-
-
+    border-width: 7px;
+    border-style: solid;
+    border-color: darkslategray;
 }
