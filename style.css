@@ -1,0 +1,9 @@
+img {
+    width: 50px;   /*make image 50px wide */
+    height: auto;   /* keep proportions */
+    display: block; /* lets us center it */
+    margin: 20px auto; /* centers image horizontally */
+    border-radius: 10px;    /*optional:rounded corners */
+
+
+}
